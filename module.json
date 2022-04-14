@@ -2,7 +2,7 @@
 	"name": "pf1ga",
 	"title": "PF1 Grapple Assistant",
 	"description": "Helps with PF1's complex grappling rules to streamline the actions.",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minimumCoreVersion": "0.8.8",
 	"compatibleCoreVersion": "9",
 	"system": "pf1",
@@ -22,7 +22,7 @@
 		
 	],
 	"url": "https://github.com/ntriel/pf1ga",
-	"download": "https://github.com/ntriel/pf1ga/archive/v1.0.2.zip",
+	"download": "https://github.com/ntriel/pf1ga/archive/v1.0.3.zip",
 	"manifest": "https://raw.githubusercontent.com/ntriel/pf1ga/main/module.json",
 	"readme": "https://github.com/ntriel/pf1ga/blob/main/README.md",
 	"changelog": "https://github.com/ntriel/pf1ga/blob/main/CHANGELOG.md",
